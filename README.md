@@ -3,8 +3,8 @@
 | Details            |              |
 |-----------------------|---------------|
 | Target OS:            |  Ubuntu\* 16.04 LTS   |
-| Programming Language: |  Python\* |
-| Time to Complete:    |  30min     |
+| Programming Language: |  C++ |
+| Time to Complete:    |  40min     |
 
 ## What it Does
 
