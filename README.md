@@ -1,5 +1,11 @@
 # Reference Implementation: How-to Build a Face Access Control Solution
 
+| Details            |              |
+|-----------------------|---------------|
+| Target OS:            |  Ubuntu\* 16.04 LTS   |
+| Programming Language: |  C++ |
+| Time to Complete:    |  40min     |
+
 ## What it Does
 
 The Face Access Control application is one of a series of IoT reference implementations aimed at instructing users on how to
