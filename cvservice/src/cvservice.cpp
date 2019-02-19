@@ -137,6 +137,10 @@ int handleControlMessages(void *context, char *topicName, int topicLen, MQTTClie
 // Open webcam input
 bool openWebcamInput(int cameraNumber) {
     webcam.open(cameraNumber);
+    
+    webcam.set(cv::CAP_PROP_FRAME_WIDTH,640);
+    webcam.set(cv::CAP_PROP_FRAME_HEIGHT,480);
+
 
     if (!webcam.isOpened())
     {
